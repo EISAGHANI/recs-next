@@ -29,9 +29,9 @@ export default function Button({
   };
 
   const variantStyles = {
-    primary: 'bg-blue-600 text-white hover:bg-blue-700 shadow-md hover:shadow-lg',
-    secondary: 'bg-green-600 text-white hover:bg-green-700 shadow-md hover:shadow-lg',
-    outline: 'border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white',
+    primary: 'bg-primary-600 text-white hover:bg-primary-700 shadow-sm hover:shadow-md',
+    secondary: 'bg-gray-100 text-gray-900 hover:bg-gray-200',
+    outline: 'border-2 border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white',
   };
 
   const combinedClassName = `${baseStyles} ${sizeStyles[size]} ${variantStyles[variant]} ${className}`;
