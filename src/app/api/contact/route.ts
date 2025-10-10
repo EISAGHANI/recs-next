@@ -23,7 +23,7 @@ export async function POST(request: NextRequest) {
 
     // Simulate email sending
     // await sendEmail({
-    //   to: 'info@m31r.com',
+    //   to: 'info@RECSr.com',
     //   subject: `New Contact Form: ${subject}`,
     //   html: `
     //     <h2>New Contact Form Submission</h2>

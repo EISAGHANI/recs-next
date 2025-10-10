@@ -37,8 +37,8 @@ export default function ContactPage() {
                     <Mail className="text-blue-600 mr-4 mt-1" size={24} />
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-gray-600">info@m31r.com</p>
-                      <p className="text-gray-600">careers@m31r.com</p>
+                      <p className="text-gray-600">info@RECSr.com</p>
+                      <p className="text-gray-600">careers@RECSr.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -85,7 +85,7 @@ export default function ContactPage() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="M31 Research Location"
+              title="RECS Research Location"
             />
           </div>
         </div>

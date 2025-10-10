@@ -8,7 +8,7 @@ const slides = [
   {
     id: 1,
     title: 'ADVANCING EVIDENCE-BASED SUSTAINABLE DEVELOPMENT',
-    description: 'M31 Research delivers reliable data, research, and sustainable projects to Donors, NGOs, multilaterals, and Universities from around the world.',
+    description: 'RECS Research delivers reliable data, research, and sustainable projects to Donors, NGOs, multilaterals, and Universities from around the world.',
     image: 'https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1920&q=80',
   },
   {

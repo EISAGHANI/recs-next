@@ -126,10 +126,10 @@ export const SERVICES: Service[] = [
 ];
 
 export const COMPANY_INFO = {
-  name: 'M31 Research',
+  name: 'RECS Research',
   tagline: 'Data, Research & Insights for Sustainable Impact',
-  email: 'info@m31r.com',
-  careers: 'careers@m31r.com',
+  email: 'info@RECSr.com',
+  careers: 'careers@RECSr.com',
   phone: '+260 XXX XXX XXX',
   address: '69 Chitimukulu Road, PHI, Lusaka, Zambia',
 };

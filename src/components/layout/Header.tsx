@@ -32,7 +32,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <div className="text-2xl font-bold text-primary-600">
-              M31
+              RECS
             </div>
             <div className="text-xl text-gray-700 ml-1">research</div>
           </Link>
