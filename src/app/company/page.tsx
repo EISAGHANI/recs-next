@@ -6,11 +6,11 @@ export default function CompanyPage() {
           Company
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          Learn more about M31 Research and our mission.
+          Learn more about RECS Research and our mission.
         </p>
         <div className="prose prose-lg max-w-none">
           <p>
-            M31 Research is a leading research and data collection firm based in Zambia,
+            RECS Research is a leading research and data collection firm based in Zambia,
             with operations across East and Southern Africa. We are committed to delivering
             evidence-based insights that drive positive change.
           </p>
